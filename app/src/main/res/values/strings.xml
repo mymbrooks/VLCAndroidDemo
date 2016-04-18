@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VLCAndroidDemo</string>
+    <string name="btnlocalvideo">播放本地视频</string>
+    <string name="btnremotevideo">远程视频 http:// rtsp://</string>
+    <string name="btnplay">播放远程视频</string>
+    <string name="imgplay_description">播放控制</string>
+    <string name="imgplay_fullscreen">全屏</string>
+</resources>
